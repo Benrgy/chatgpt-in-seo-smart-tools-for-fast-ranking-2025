@@ -1,0 +1,6 @@
+# Redirect old GitHub Pages URLs to custom domain
+https://benrgy.github.io/chatgpt-in-seo-smart-tools-for-fast-ranking-2025/* https://chatgptinseo.com/:splat 301!
+
+# Handle trailing slashes and ensure proper redirects
+/blog/ /blog 301
+/*/  /:splat 301
