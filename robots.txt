@@ -1,0 +1,11 @@
+# robots.txt for chatgptinseo.com
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://chatgptinseo.com/sitemap.xml
+
+# LLM context files
+# See https://llmstxt.org/ for specification
+# llms.txt: https://chatgptinseo.com/llms.txt
+# llms-full.txt: https://chatgptinseo.com/llms-full.txt

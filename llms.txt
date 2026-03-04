@@ -1,0 +1,33 @@
+# ChatGPT in SEO
+
+> ChatGPT in SEO is a directory and resource hub for AI-powered SEO tools. We cover how ChatGPT and similar AI tools can be used to improve search engine optimization, including keyword research, content creation, technical SEO, and link building strategies.
+
+## Website
+
+- Homepage: https://chatgptinseo.com/
+- Blog: https://chatgptinseo.com/blog.html
+
+## Key Topics
+
+- Using ChatGPT for SEO strategy and keyword research
+- AI-powered SEO analysis tools comparison and reviews
+- ChatGPT vs traditional SEO tools
+- SEO tools for agencies and small businesses
+- Content optimization with AI assistance
+
+## Blog Articles
+
+- [Benefits of ChatGPT in SEO](https://chatgptinseo.com/blog/benefits-of-chatgpt-in-seo-20250731-vji.html)
+- [Best ChatGPT SEO Analysis Tools](https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tools-20251017-zx4.html)
+- [Best ChatGPT SEO Tool](https://chatgptinseo.com/blog/best-chatgpt-seo-tool-20251015-fxw.html)
+- [Buyer's Guide for ChatGPT SEO Tools](https://chatgptinseo.com/blog/buyers-guide-for-chatgpt-seo-tools-20250731-ya6.html)
+- [ChatGPT for Effective SEO Strategy](https://chatgptinseo.com/blog/chatgpt-for-effective-seo-strategy-20250731-qa2.html)
+- [ChatGPT SEO Tool Comparison](https://chatgptinseo.com/blog/chatgpt-seo-tool-comparison-20251015-hl5.html)
+- [ChatGPT SEO Tool Features](https://chatgptinseo.com/blog/chatgpt-seo-tool-features-20251015-xzy.html)
+- [ChatGPT SEO Tool for Agencies](https://chatgptinseo.com/blog/chatgpt-seo-tool-for-agencies-20251015-9c5.html)
+- [ChatGPT vs Other SEO Tools](https://chatgptinseo.com/blog/chatgpt-vs-other-seo-tools-20250731-cfh.html)
+- [Overcome SEO Challenges with ChatGPT](https://chatgptinseo.com/blog/overcome-seo-challenges-with-chatgpt-20250731-dmq.html)
+
+## Optional
+
+- Full content listing: https://chatgptinseo.com/llms-full.txt
