@@ -298,17 +298,6 @@
         const dateObj = new Date(post.date + 'T00:00:00Z');
         const dateStr = dateObj.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
-        const jsonLd = {
-          "@context": "https://schema.org",
-          "@type": "BlogPosting",
-          "headline": post.title,
-          "description": post.description,
-          "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
-          "datePublished": post.date,
-          "url": post.url,
-          "author": { "@type": "Organization", "name": "ChatGPT in SEO" }
-        };
-
         return `<article class="bg-gray-800 rounded-lg p-6 hover:shadow-lg transition duration-300">
           <div class="mb-4">
             <span class="text-sm text-gray-400">${dateStr}</span>
@@ -318,7 +307,6 @@
           <h2 class="text-2xl font-bold mb-4 text-blue-500 hover:text-blue-400 transition">${post.title}</h2>
           <p class="text-gray-300 mb-4">${post.description}</p>
           <a href="${post.url}" class="inline-block text-blue-500 hover:text-blue-400 transition duration-300 font-medium">Read Article →</a>
-          <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
         </article>`;
       }).join('');
 
