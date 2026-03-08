@@ -29,9 +29,78 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Blog Posts -->
+  <!-- Phase 2: Use-Case Articles (priority 0.8 — high commercial intent) -->
   <url>
-    <loc>https://chatgptinseo.com/blog/benefits-of-chatgpt-in-seo-20250731-vji.html</loc>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-startups-20260308-p7x.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-saas-20260308-d5n.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-b2b-20260308-w6f.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-small-business-20260308-j3v.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-freelancers-20260308-t8q.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-bloggers-20260308-k9t.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-ecommerce-20260308-m4r.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-for-agencies-2023-20260308-dzy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Phase 2: Commercial / Comparison Articles -->
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-vs-alternatives-free-20260308-haj.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-comparison-online-20260308-2n2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-pricing-20260308-hig.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/ai-seo-analysis-tools-20260308-y2k.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-tool-online-review-20260307-z31.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Phase 1: October 2025 Articles -->
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-analysis-software-20251017-swk.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -51,11 +120,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-tool-20250731-oxp.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-tool-20251015-fxw.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -67,26 +131,6 @@
   </url>
   <url>
     <loc>https://chatgptinseo.com/blog/buy-chatgpt-seo-analysis-tools-subscription-20251017-bx2.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://chatgptinseo.com/blog/buyers-guide-for-chatgpt-seo-tools-20250731-ya6.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://chatgptinseo.com/blog/chatgpt-for-effective-seo-strategy-20250731-qa2.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://chatgptinseo.com/blog/chatgpt-in-seo-solutions-comparison-20250731-ipt.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://chatgptinseo.com/blog/chatgpt-reliable-seo-tool-20250731-ok6.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,6 +210,48 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://chatgptinseo.com/blog/most-effective-chatgpt-seo-tool-20251015-oaa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/top-chatgpt-seo-analysis-tools-comparison-20251017-lr7.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Phase 1: July 2025 Articles -->
+  <url>
+    <loc>https://chatgptinseo.com/blog/benefits-of-chatgpt-in-seo-20250731-vji.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/best-chatgpt-seo-tool-20250731-oxp.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/buyers-guide-for-chatgpt-seo-tools-20250731-ya6.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/chatgpt-for-effective-seo-strategy-20250731-qa2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/chatgpt-in-seo-solutions-comparison-20250731-ipt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chatgptinseo.com/blog/chatgpt-reliable-seo-tool-20250731-ok6.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://chatgptinseo.com/blog/chatgpt-vs-other-seo-tools-20250731-cfh.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -181,22 +267,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chatgptinseo.com/blog/most-effective-chatgpt-seo-tool-20251015-oaa.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://chatgptinseo.com/blog/overcome-seo-challenges-with-chatgpt-20250731-dmq.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://chatgptinseo.com/blog/review-of-chatgpt-in-seo-20250731-yn0.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://chatgptinseo.com/blog/top-chatgpt-seo-analysis-tools-comparison-20251017-lr7.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
