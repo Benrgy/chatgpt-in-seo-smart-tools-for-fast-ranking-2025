@@ -1,37 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Not Found - ChatGPT in SEO</title>
-    <meta name="robots" content="noindex">
-    <link rel="stylesheet" href="/style.css">
-    <script>
-    // Redirect extensionless URLs to .html version
-    (function() {
-        var path = window.location.pathname;
-        // Skip if already has extension or is root
-        if (path === '/' || path.indexOf('.') !== -1) return;
-        // Remove trailing slash
-        if (path.endsWith('/')) path = path.slice(0, -1);
-        // Try .html version
-        var newUrl = path + '.html';
-        var xhr = new XMLHttpRequest();
-        xhr.open('HEAD', newUrl, true);
-        xhr.onload = function() {
-            if (xhr.status === 200) {
-                window.location.replace(newUrl);
-            }
-        };
-        xhr.send();
-    })();
-    </script>
+    <meta http-equiv="refresh" content="0;url=https://chatgptinseo.com/">
+    <link rel="canonical" href="https://chatgptinseo.com/">
+    <title>Pagina niet gevonden - doorsturen...</title>
+    <script>window.location.replace("https://chatgptinseo.com/");</script>
 </head>
-<body class="bg-gray-900 text-white font-inter min-h-screen flex items-center justify-center">
-    <div class="text-center px-6">
-        <h1 class="text-6xl font-bold mb-4">404</h1>
-        <p class="text-xl text-gray-400 mb-8">Page not found</p>
-        <a href="https://chatgptinseo.com/" class="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">Go to Homepage</a>
-    </div>
+<body>
+    <p>Pagina niet gevonden. <a href="https://chatgptinseo.com/">Klik hier</a> om terug te gaan.</p>
 </body>
 </html>
