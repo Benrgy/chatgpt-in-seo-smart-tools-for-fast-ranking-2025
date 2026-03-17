@@ -23,11 +23,6 @@
   </url>
 
   <!-- Blog Index -->
-  <url>
-    <loc>https://chatgptinseo.com/blog/index.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
 
   <!-- Phase 2: Use-Case Articles (priority 0.8 — high commercial intent) -->
   <url>
